@@ -1,0 +1,54 @@
+/*for-tablet*/
+ @media screen and (min-width: 767px) and (max-width: 991px) {
+	 
+/*header-start*/
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*for-mobil*/
+ @media screen and (max-width: 767px) {
+	 
+ /*shope-area-start*/
+ 
+.social-icon ul li {
+	margin: 20px 0 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*shope-area-end*/
+
+
+ 
+ 
+ 	
+	
+ }
